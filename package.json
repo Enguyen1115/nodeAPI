@@ -1,0 +1,23 @@
+{
+  "name": "nodeapi",
+  "version": "1.0.0",
+  "description": "API Demo using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Enguyen1115/nodeAPI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Enguyen1115/nodeAPI/issues"
+  },
+  "homepage": "https://github.com/Enguyen1115/nodeAPI#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
