@@ -5,7 +5,7 @@ var mongoose = require('mongoose');
 const app = express();
 
 //Create a connection to the database
-mongoose.connect('mongodb://localhost:27017/ourdata');
+mongoose.connect('mongodb://localhost:27017/mydb');
 mongoose.Promise = global.Promise;
 
 app.use(express.static('public'));
